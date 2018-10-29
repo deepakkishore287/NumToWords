@@ -6,7 +6,7 @@ composer require deepkishore/num-to-words
 
  In Controller 
  
- namespace App\***;
+ namespace App\**;
  
  use kishore\NumToWords\NumToWordServiceProvider;
 
