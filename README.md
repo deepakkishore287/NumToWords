@@ -1,6 +1,6 @@
 # Number To Word Conversion Package.
 
-Installating Package via Composer.
+Installing Package via Composer.
 
 composer require deepkishore/num-to-words
 
