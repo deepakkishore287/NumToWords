@@ -1,5 +1,5 @@
 {
-    "name": "kishore/num-to-words",
+    "name": "deepkishore/num-to-words",
     "description": "This will convert number into words.",
     "type": "library",
     "license": "MIT",
